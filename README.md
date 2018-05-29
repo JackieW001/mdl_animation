@@ -1,2 +1,2 @@
 # mdl_animation
-2018 Graphics: animating mdl scripts
+2018 Graphics making animations
